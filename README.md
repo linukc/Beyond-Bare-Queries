@@ -26,6 +26,9 @@ Open-Vocabulary Object Grounding <br> with 3D Scene Graph</h1>
 <img src="assets/pipeline.png" width="80%">
 </p>
 
+## Updates
+[2025.01] We are pleased to inform you that our paper has been accepted for presentation at ICRA 2025! 🎉 
+
 ## Getting Started
 
 ### System Requirements
